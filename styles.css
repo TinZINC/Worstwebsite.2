@@ -1,0 +1,35 @@
+
+#homelinks {
+    margin-top: 50px;
+    margin-left: 3000px;
+    position: absolute;
+}
+
+#elmo {
+    position: relative;
+}
+
+.center {
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#pads {
+    display: inline-block;
+    float: none;
+    padding: 50px;
+    margin: 20px;
+    background-color: gold;
+    border: 20px solid blue;
+}
+#first {
+    background-color: lightgrey;
+}
+#second {
+    background-color: lightblue;
+}
+#third {
+    background-color: lightgreen;
+}
